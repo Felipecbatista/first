@@ -7,6 +7,7 @@ namespace Exercicio_git {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Bom dia");
             Console.WriteLine("Como estamos? ");
+            Console.WriteLine("Mais uma semana! ");
         }
     }
 }
